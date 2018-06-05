@@ -9,12 +9,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
         android:text="Happy Birthday Friend"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
         android:text="From, Imed"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true" />
